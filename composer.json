@@ -1,0 +1,15 @@
+{
+    "name": "musgravehill/yii-amqp",
+    "description": "AMQP extension wrapper to communicate with RabbitMQ server",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "musgravehill",
+            "email": "musgravehill@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "require": {
+        "videlalvaro/php-amqplib": "2.2.6"
+    }
+}
