@@ -11,5 +11,8 @@
     "minimum-stability": "stable",
     "require": {
         "videlalvaro/php-amqplib": "2.2.6"
+    },
+    "autoload": {
+        "classmap": ["CAMQP.php"]
     }
 }
